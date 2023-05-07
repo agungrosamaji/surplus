@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "D616179E7582A7FBCEC833A7D0907F56",
+  "keywordClasses": [
+    {
+      "name": "api.common",
+      "keywordMethods": [
+        {
+          "name": "checkResponseCode",
+          "parameters": [
+            {
+              "name": "response",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "responseCode",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Check Response Code\r\n\t *\r\n\t * @param username for auth login\r\n\t * @param password for auth login\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
